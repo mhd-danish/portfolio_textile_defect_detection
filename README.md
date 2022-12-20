@@ -4,10 +4,12 @@ In the context of textile fabric, rare anomalies can occur, hence compromizing t
 
 Textile Defect Detection is a binary classification project which is able to predict whether the given patch of the fabric is damaged or not (good).
 
+**Source:** [Kaggle](https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection)
+
 **What is covered?**
 
 * Importing the Dataset (HDF5 format).
-* Pre-Exploration (Distribution of Classes)
+* Pre-Exploration (Distribution of Classes).
 * Preprocessig the dataset for binary classification.
 * Exploring the dataset.
 * Setting-up the model callbacks.
