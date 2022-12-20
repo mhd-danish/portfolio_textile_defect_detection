@@ -6,9 +6,9 @@ Textile Defect Detection is a binary classification project which is able to pre
 
 ![alt text](https://github.com/mhd-danish/portfolio_textile_defect_detection/blob/main/extras/dataset-cover.jpg)
 
-**Source:** [Kaggle](https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection)
+**Dataset**: [Kaggle](https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection)
 
-**What is covered?**
+## **What is covered?**
 
 * Importing the Dataset (HDF5 format).
 * Pre-Exploration (Distribution of Classes).
@@ -18,3 +18,11 @@ Textile Defect Detection is a binary classification project which is able to pre
 * Setting-up baseline metrics for the evaluation of actual models.
 * Model building, training and evaluation (Transfer Learning).
 * FineTuning the Model.
+
+## **Results**
+
+**Precision:** 0.99
+
+**Recall:** 0.97
+
+**F1-Score:** 0.98
