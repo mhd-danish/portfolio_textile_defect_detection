@@ -21,8 +21,4 @@ Textile Defect Detection is a binary classification project which is able to pre
 
 ## **Results**
 
-**Precision:** 0.99
-
-**Recall:** 0.97
-
-**F1-Score:** 0.98
+![alt text](https://github.com/mhd-danish/portfolio_textile_defect_detection/blob/main/extras/results.png)
